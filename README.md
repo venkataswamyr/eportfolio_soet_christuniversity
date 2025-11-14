@@ -25,4 +25,4 @@ Associate Professor, Department of Electrical and Electronics Engineering
 
 1. **Download Template**
    ```bash
-   git clone https://github.com/venkataswamyr/christ-uni-eportfolio-template.git
+   git clone https://github.com/venkataswamyr/eportfolio_soet_christuniversity.git
